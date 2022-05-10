@@ -19,9 +19,9 @@ pipeline {
                    type: 'jar'
                  ]
                ],
-                 credentialsId: 'df6ef40d-abef-478d-b773-74d09faa6ed1',
+                 credentialsId: 'b9356e13-8638-4663-9136-6aa7105785b6',
                  groupId: 'com.th',
-                 nexusUrl: '3.144.79.51:8081',
+                 nexusUrl: '3.87.60.100:8081',
                  nexusVersion: 'nexus3',
                  protocol: 'http', 
                  repository: 'Main', 
